@@ -1,0 +1,22 @@
+<libros>
+	<libro>
+		<titulo>It</titulo>
+		<autor>Stephen KIng</autor>
+		<editorial>DEBOLSILLO</editorial>
+		<fechapublicacion>2019</fechapublicacion>
+		<isbn>9788466347921</isbn>
+		<precio>12,95</precio>
+		<numeropaginas>1504</numeropaginas>
+	</libro>
+</libros>
+	
+	<libro>
+		<id></id>
+		<titulo></titulo>
+		<autor></autor>
+		<editorial></editorial>
+		<fechapublicacion></fechapublicacion>
+		<isbn></isbn>
+		<precio></precio>
+		<numeropaginas></numeropaginas>
+	</libro>
